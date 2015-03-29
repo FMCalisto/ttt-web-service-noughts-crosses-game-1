@@ -1,0 +1,12 @@
+ttt\cli\Game.class
+ttt\CurrentBoardResponse.class
+ttt\CurrentBoard.class
+ttt\CheckWinnerResponse.class
+ttt\PlayResponse.class
+ttt\Play.class
+ttt\TTTImplService.class
+ttt\package-info.class
+ttt\CheckWinner.class
+ttt\ObjectFactory.class
+example\ws\uddi\UDDINaming.class
+ttt\TTT.class
