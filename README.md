@@ -1,4 +1,4 @@
-# Tica Tac Toe Web Service Noughts and Crosses Game
+# Tic Tac Toe Web Service Noughts and Crosses Game
 
 ## Preface
 
